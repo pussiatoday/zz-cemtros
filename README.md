@@ -43,197 +43,184 @@ MBIX изначально был неподъемным, потому что п�
 
 ### Список статей
 
-* Spontaneous Bacterial Peritonitis (SBP)
-* Acute Pancreatitis
-* Abdominal Cutaneous Nerve Entrapment Syndrome (ACNES)
-* Small Bowel Obstruction
-* Cholangitis
-* Acute Cholecystitis
-* Bundle Branch Blocks
-* Disutility of Orthostatics in Volume Depletion
-* Pacemakers: Basic + Advanced Concepts
-* Infective Endocarditis
-* Amiodarone is Dead
-* Superficial Venous Thrombosis (SVT)
-* Deep Venous Thrombosis (DVT)
-* ST Elevation Myocardial Infarction in LBBB
-* Pericarditis
-* Air Embolism
-* Abdominal Aortic Aneurysm
-* Recent-Onset Atrial Fibrillation
-* Atrioventricular Nodal Reentrant Tachycardia
-* Ventricular Tachycardia
-* Aortic Dissection
-* A Simplified Approach to Tachydysrhythmias
-* Acute Pulmonary Edema
-* Congestive Heart Failure
-* Cardiogenic Shock
-* Dyspnea
-* [Apparent Life-Threatening Event (ALTE)](https://coreem.net/core/alte/)
-
-    Очень познавательно: о́лти, бру́и, сидс. Первый раз слышу эти аббревиатуры, разве что про SIDS слышал мимолетом. С первого раза плохо уложилось, нужно будет вернуться. Особенно с учетом того, что ALTE аж дважды здесь в списке.
-    
-    Также [на Ютьюбчике посмотрел несколько видео](https://youtube.com/search?q=apparent+life+threatening+event). Да, буду читать с видосами, когда прочтешь без видосов, чего-то не хватает.
-    
-    Также комментарии к статье на Кориэме оказалсь познавательны.
-
-* Chief Complaint – Chest Pain
-* Capnography
-* Petition to Retire the Surviving Sepsis Campaign Guidelines
-* Topics in Post-ROSC Care
-* Upper GI Bleeding
-* Occult Causes of Non-Response to Vasopressors
-* Surviving Sepsis 2017 Guidelines Overview
-* Common Tracheostomy Issues
-* Fluid Resuscitation
-* Post-Intubation Sedation and Analgesia
-* Rapid Sequence Intubation Medications
-* Procedural Sedation and Analgesia Resources
-* Hypomagnesemia
-* Hyperglycemic Hyperosmolar Syndrome
-* Thyroid Storm
-* Severe Hyponatremia
-* Diabetic Ketoacidosis (DKA)
-* Hypercalcemia
-* Hypocalcemia
-* Hypokalemia
-* Adrenal Crisis
-* Pharmacology of Insulins
-* Hyperkalemia
-* Hypothermia
-* Acute Mountain Sickness
-* Environmental Hyperthermia
-* Non-Traumatic Monocular Vision Loss
-* Prophylactic Antibiotics in Nasal Packing
-* Acute Rhinosinusitis
-* Temporomandibular Joint (TMJ) Dislocation
-* Herpes Keratitis
-* Epiglottitis
-* Acute Otitis Media
-* Traumatic Ocular Injuries
-* Peritonsillar Abscess
-* Neutropenic Fever
-* Emergency Management of Blast Crisis
-* Anaphylaxis
-* Angioedema
-* Quadriceps Tendon Rupture
-* Patella Tendon Rupture
-* Achilles Tendon Rupture
-* Biceps and Triceps Tendon Rupture
-* Jones Fractures
-* Forearm Fractures
-* Metacarpal Fractures
-* Medial Collateral Ligament (MCL) Injuries
-* Anterior Cruciate Ligament (ACL) Injuries
-* Subtalar Dislocation
-* Septic Arthritis
-* Slipped Capital Femoral Epiphysis (SCFE)
-* Pelvic Vertical Shear Fractures
-* Intertrochanteric Fractures
-* Lisfranc Injuries
-* Hip Dislocation
-* Pediatric Septic Hip
-* Finger Injuries
-* Olecranon Fractures
-* Non-Traumatic Low Back Pain
-* Distal Radius Fractures
-* Scaphoid Fractures
-* Calcaneus Fractures
-* [Ankle Stress Views: Why, When + What](https://coreem.net/core/ankle-stress-views/)
-
-    Отлично, кажется, я впервые, наконец освоил главные связки голеностопа и механизмы травмы голеностопа. Йу-ху!
-    
-    [Видео из статьи](https://vimeo.com/175692273) посмотрел плюс [Ютьюбчик](https://youtube.com/search?q=mortise+view) посмотрел также.
-
-* Shoulder Dislocation
-* True Knee + Patellar Dislocations
-* Elbow Dislocation
-* Proximal Humerus Fracture
-* Clavicle Fractures
-* Acromioclavicular (AC) Joint Injuries
-* Approach to Traumatic Shoulder Pain
-* Lunate Dislocation
-* Cauda Equina Syndrome
-* Approach to Adult First Time Seizure in the ED
-* Spinal Epidural Hematoma
-* Cerebral Venous Thrombosis
-* Post-Dural Puncture Headache
-* Spinal Epidural Abscess
-* Vertebral Osteomyelitis
-* Post-Partum Hemorrhage
-* Preeclampsia and Eclampsia
-* Ectopic Pregnancy
-* Utility of Anti-D Immunoglobulin(Rho Gam) During First Trimester Pregnancy
-* Vaginal Bleeding
-* Ovarian Torsion
-* Peri-Mortem C-Section
-* Shoulder Dystocia
-* Infections in Pregnancy
-* The Critically Ill Infant
-* Bronchiolitis
-* Intussusception
-* Febrile Seizures
-* Pediatric Femur Fractures
-* Button Battery Ingestion
-* Croup (Laryngotracheobronchitis)
-* Pediatric Supracondylar Fractures
-* Slipped Capital Femoral Epiphysis (SCFE)
-* Pediatric Septic Hip
-* ~~Apparent Life-Threatening Event (ALTE)~~
-
-    Дублирует, см. выше.
-
-* Acute Otitis Media
-* Priapism
-* Ureteral Colic
-* Testicular Torsion
-* Suture Materials
-* Cellulitis
-* Updates in Community Acquired Pneumonia (CAP) Treatment
-* Septic Arthritis
-* Herpes Zoster
-* Antibiotic Sensitivity Overview
-* Ebola Hemorrhagic Fever
-* Bronchiolitis
-* Routine Admission CXR (RACXR)
-* Hemodynamically Unstable Pulmonary Embolism
-* Supplemental O2 in COPD Exacerbation
-* Life-Threatening Asthma
-* Basic Asthma Management
-* Acetaminophen Toxicity
-* Wernicke Encephalopathy
-* Salicylate Toxicity (Salicylism)
-* Button Battery Ingestion
-* Tricyclic Antidepressant Toxicity
-* Methemoglobinemia
-* Local Anesthetic Systemic Toxicity (LAST)
-* Intrathecal Baclofen Withdrawal
-* Methamphetamine Intoxication
-* Parenteral Benzodiazepines
-* Orogastric Lavage
-* Hyperinsulinemia Euglycemia Therapy (HIET) for Beta Blocker and Calcium Channel Blocker Toxicity
-* Le Fort Fractures
-* Pediatric Femur Fractures
-* Sacral Fractures
-* Traumatic Arthrotomy
-* Scapula Fractures
-* Femoral Shaft Fractures
-* Penetrating Neck Injuries
-* Facial Fractures
-* Femoral Neck Fractures
-* Pediatric Supracondylar Fractures
-* Initial Trauma Assessment
-* Ankle Fractures
-* Tibial Plateau Fractures
-* Traumatic Hemothorax
-* Radial Head Fracture
-* C-Spine Injuries + CT Interpretation
-* Open Fractures
-* The ABCS of Reading C-Spine CTs
-* Compartment Syndrome
-* Ocular Ultrasound
-* Common Forearm Nerve Blocks
-* Ultrasound Guided Pericardiocentesis
+| Статья | Комментарий |
+|--------|-------------|
+| Spontaneous Bacterial Peritonitis (SBP) |  |
+| Acute Pancreatitis |  |
+| Abdominal Cutaneous Nerve Entrapment Syndrome (ACNES) |  |
+| Small Bowel Obstruction |  |
+| Cholangitis |  |
+| Acute Cholecystitis |  |
+| Bundle Branch Blocks |  |
+| Disutility of Orthostatics in Volume Depletion |  |
+| Pacemakers: Basic + Advanced Concepts |  |
+| Infective Endocarditis |  |
+| Amiodarone is Dead |  |
+| Superficial Venous Thrombosis (SVT) |  |
+| Deep Venous Thrombosis (DVT) |  |
+| ST Elevation Myocardial Infarction in LBBB |  |
+| Pericarditis |  |
+| Air Embolism |  |
+| Abdominal Aortic Aneurysm |  |
+| Recent-Onset Atrial Fibrillation |  |
+| Atrioventricular Nodal Reentrant Tachycardia |  |
+| Ventricular Tachycardia |  |
+| Aortic Dissection |  |
+| A Simplified Approach to Tachydysrhythmias |  |
+| Acute Pulmonary Edema |  |
+| Congestive Heart Failure |  |
+| Cardiogenic Shock |  |
+| Dyspnea |  |
+| [Apparent Life-Threatening Event (ALTE)](https://coreem.net/core/alte/)  | Очень познавательно: о́лти, бру́и, сидс. Первый раз слышу эти аббревиатуры, разве что про SIDS слышал мимолетом. С первого раза плохо уложилось, нужно будет вернуться. Особенно с учетом того, что ALTE аж дважды здесь в списке. Также [на Ютьюбчике посмотрел несколько видео](https://youtube.com/search?q=apparent+life+threatening+event). Да, буду читать с видосами, когда прочтешь без видосов, чего-то не хватает. Также комментарии к статье на Кориэме оказалсь познавательны. |
+| Chief Complaint – Chest Pain |  |
+| Capnography |  |
+| Petition to Retire the Surviving Sepsis Campaign Guidelines |  |
+| Topics in Post-ROSC Care |  |
+| Upper GI Bleeding |  |
+| Occult Causes of Non-Response to Vasopressors |  |
+| Surviving Sepsis 2017 Guidelines Overview |  |
+| Common Tracheostomy Issues |  |
+| Fluid Resuscitation |  |
+| Post-Intubation Sedation and Analgesia |  |
+| Rapid Sequence Intubation Medications |  |
+| Procedural Sedation and Analgesia Resources |  |
+| Hypomagnesemia |  |
+| Hyperglycemic Hyperosmolar Syndrome |  |
+| Thyroid Storm |  |
+| Severe Hyponatremia |  |
+| Diabetic Ketoacidosis (DKA) |  |
+| Hypercalcemia |  |
+| Hypocalcemia |  |
+| Hypokalemia |  |
+| Adrenal Crisis |  |
+| Pharmacology of Insulins |  |
+| Hyperkalemia |  |
+| Hypothermia |  |
+| Acute Mountain Sickness |  |
+| Environmental Hyperthermia |  |
+| Non-Traumatic Monocular Vision Loss |  |
+| Prophylactic Antibiotics in Nasal Packing |  |
+| Acute Rhinosinusitis |  |
+| Temporomandibular Joint (TMJ) Dislocation |  |
+| Herpes Keratitis |  |
+| Epiglottitis |  |
+| Acute Otitis Media |  |
+| Traumatic Ocular Injuries |  |
+| Peritonsillar Abscess |  |
+| Neutropenic Fever |  |
+| Emergency Management of Blast Crisis |  |
+| Anaphylaxis |  |
+| Angioedema |  |
+| Quadriceps Tendon Rupture |  |
+| Patella Tendon Rupture |  |
+| Achilles Tendon Rupture |  |
+| Biceps and Triceps Tendon Rupture |  |
+| Jones Fractures |  |
+| Forearm Fractures |  |
+| Metacarpal Fractures |  |
+| Medial Collateral Ligament (MCL) Injuries |  |
+| Anterior Cruciate Ligament (ACL) Injuries |  |
+| Subtalar Dislocation |  |
+| Septic Arthritis |  |
+| Slipped Capital Femoral Epiphysis (SCFE) |  |
+| Pelvic Vertical Shear Fractures |  |
+| Intertrochanteric Fractures |  |
+| Lisfranc Injuries |  |
+| Hip Dislocation |  |
+| Pediatric Septic Hip |  |
+| Finger Injuries |  |
+| Olecranon Fractures |  |
+| Non-Traumatic Low Back Pain |  |
+| Distal Radius Fractures |  |
+| Scaphoid Fractures |  |
+| Calcaneus Fractures |  |
+| [Ankle Stress Views: Why, When + What](https://coreem.net/core/ankle-stress-views/)  | Отлично, кажется, я впервые, наконец освоил главные связки голеностопа и механизмы травмы голеностопа. Йу-ху! [Видео из статьи](https://vimeo.com/175692273) посмотрел плюс [Ютьюбчик](https://youtube.com/search?q=mortise+view) посмотрел также. |
+| Shoulder Dislocation |  |
+| True Knee + Patellar Dislocations |  |
+| Elbow Dislocation |  |
+| Proximal Humerus Fracture |  |
+| Clavicle Fractures |  |
+| Acromioclavicular (AC) Joint Injuries |  |
+| Approach to Traumatic Shoulder Pain |  |
+| Lunate Dislocation |  |
+| Cauda Equina Syndrome |  |
+| Approach to Adult First Time Seizure in the ED |  |
+| Spinal Epidural Hematoma |  |
+| Cerebral Venous Thrombosis |  |
+| Post-Dural Puncture Headache |  |
+| Spinal Epidural Abscess |  |
+| Vertebral Osteomyelitis |  |
+| Post-Partum Hemorrhage |  |
+| Preeclampsia and Eclampsia |  |
+| Ectopic Pregnancy |  |
+| Utility of Anti-D Immunoglobulin(Rho Gam) During First Trimester Pregnancy |  |
+| Vaginal Bleeding |  |
+| Ovarian Torsion |  |
+| Peri-Mortem C-Section |  |
+| Shoulder Dystocia |  |
+| Infections in Pregnancy |  |
+| The Critically Ill Infant |  |
+| Bronchiolitis |  |
+| Intussusception |  |
+| Febrile Seizures |  |
+| Pediatric Femur Fractures |  |
+| Button Battery Ingestion |  |
+| Croup (Laryngotracheobronchitis) |  |
+| Pediatric Supracondylar Fractures |  |
+| Slipped Capital Femoral Epiphysis (SCFE) |  |
+| Pediatric Septic Hip |  |
+| ~~Apparent Life-Threatening Event (ALTE)~~  | Дублирует, см. выше. |
+| Acute Otitis Media |  |
+| Priapism |  |
+| Ureteral Colic |  |
+| Testicular Torsion |  |
+| Suture Materials |  |
+| Cellulitis |  |
+| Updates in Community Acquired Pneumonia (CAP) Treatment |  |
+| Septic Arthritis |  |
+| Herpes Zoster |  |
+| Antibiotic Sensitivity Overview |  |
+| Ebola Hemorrhagic Fever |  |
+| Bronchiolitis |  |
+| Routine Admission CXR (RACXR) |  |
+| Hemodynamically Unstable Pulmonary Embolism |  |
+| Supplemental O2 in COPD Exacerbation |  |
+| Life-Threatening Asthma |  |
+| Basic Asthma Management |  |
+| Acetaminophen Toxicity |  |
+| Wernicke Encephalopathy |  |
+| Salicylate Toxicity (Salicylism) |  |
+| Button Battery Ingestion |  |
+| Tricyclic Antidepressant Toxicity |  |
+| Methemoglobinemia |  |
+| Local Anesthetic Systemic Toxicity (LAST) |  |
+| Intrathecal Baclofen Withdrawal |  |
+| Methamphetamine Intoxication |  |
+| Parenteral Benzodiazepines |  |
+| Orogastric Lavage |  |
+| Hyperinsulinemia Euglycemia Therapy (HIET) for Beta Blocker and Calcium Channel Blocker Toxicity |  |
+| Le Fort Fractures |  |
+| Pediatric Femur Fractures |  |
+| Sacral Fractures |  |
+| Traumatic Arthrotomy |  |
+| Scapula Fractures |  |
+| Femoral Shaft Fractures |  |
+| Penetrating Neck Injuries |  |
+| Facial Fractures |  |
+| Femoral Neck Fractures |  |
+| Pediatric Supracondylar Fractures |  |
+| Initial Trauma Assessment |  |
+| Ankle Fractures |  |
+| Tibial Plateau Fractures |  |
+| Traumatic Hemothorax |  |
+| Radial Head Fracture |  |
+| C-Spine Injuries + CT Interpretation |  |
+| Open Fractures |  |
+| The ABCS of Reading C-Spine CTs |  |
+| Compartment Syndrome |  |
+| Ocular Ultrasound |  |
+| Common Forearm Nerve Blocks |  |
+| Ultrasound Guided Pericardiocentesis |
 
 ## Благодарности
 
