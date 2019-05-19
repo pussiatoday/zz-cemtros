@@ -140,6 +140,11 @@ MBIX изначально был неподъемным, потому что п�
 * Scaphoid Fractures
 * Calcaneus Fractures
 * [Ankle Stress Views: Why, When + What](https://coreem.net/core/ankle-stress-views/)
+
+    Отлично, кажется, я впервые, наконец освоил главные связки голеностопа и механизмы травмы голеностопа. Йу-ху!
+    
+    [Видео из статьи](https://vimeo.com/175692273) посмотрел плюс [Ютьюбчик](https://youtube.com/search?q=mortise+view) посмотрел также.
+
 * Shoulder Dislocation
 * True Knee + Patellar Dislocations
 * Elbow Dislocation
