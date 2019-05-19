@@ -69,7 +69,14 @@ MBIX изначально был неподъемным, потому что п�
 * Congestive Heart Failure
 * Cardiogenic Shock
 * Dyspnea
-* Apparent Life-Threatening Event (ALTE)
+* [Apparent Life-Threatening Event (ALTE)](https://coreem.net/core/alte/)
+
+    Очень познавательно: о́лти, бру́и, сидс. Первый раз слышу эти аббревиатуры, разве что про SIDS слышал мимолетом. С первого раза плохо уложилось, нужно будет вернуться. Особенно с учетом того, что ALTE аж дважды здесь в списке.
+    
+    Также [на Ютьюбчике посмотрел несколько видео](https://youtube.com/search?q=apparent+life+threatening+event). Да, буду читать с видосами, когда прочтешь без видосов, чего-то не хватает.
+    
+    Также комментарии к статье на Кориэме оказалсь познавательны.
+
 * Chief Complaint – Chest Pain
 * Capnography
 * Petition to Retire the Surviving Sepsis Campaign Guidelines
@@ -167,7 +174,10 @@ MBIX изначально был неподъемным, потому что п�
 * Pediatric Supracondylar Fractures
 * Slipped Capital Femoral Epiphysis (SCFE)
 * Pediatric Septic Hip
-* Apparent Life-Threatening Event (ALTE)
+* ~~Apparent Life-Threatening Event (ALTE)~~
+
+    Дублирует, см. выше.
+
 * Acute Otitis Media
 * Priapism
 * Ureteral Colic
