@@ -219,7 +219,7 @@ MBIX изначально был неподъемным, потому что п�
 | The ABCS of Reading C-Spine CTs |  |  |
 | Compartment Syndrome |  |  |
 | Ocular Ultrasound |  |  |
-| Common Forearm Nerve Blocks |  |  |
+| [Common Forearm Nerve Blocks](https://coreem.net/core/common-forearm-nerve-blocks/) | Вспомнил основную анатомию предплечья. Впервые вообще посмотрел на блокады предплечья и впервые на блокады предплечья под УЗИ, плюс показания узнал. Посмотрел и видосы с подкастами из статьи, и несколько с Ютьюба. | [forearm nerve block](https://youtube.com/search?q=forearm+nerve+block) |
 | Ultrasound Guided Pericardiocentesis |  |  |
 
 ## Благодарности
