@@ -181,7 +181,7 @@ MBIX изначально был неподъемным, потому что п�
 | Herpes Zoster |  |  |
 | Antibiotic Sensitivity Overview |  |  |
 | Ebola Hemorrhagic Fever |  |  |
-| Bronchiolitis |  |  |
+| [Bronchiolitis](https://coreem.net/core/bronchiolitis/) | Оказывается, такой бронхиолит еще у детей бывает. Что-то чересчур много впервые узнаю. Ютьюб не смотрел. Голова уже плохо варит, нужно будет перечитывать. | [bronchiolitis](https://youtube.com/bronchiolitis) |
 | Routine Admission CXR (RACXR) |  |  |
 | Hemodynamically Unstable Pulmonary Embolism |  |  |
 | Supplemental O2 in COPD Exacerbation |  |  |
