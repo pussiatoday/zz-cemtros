@@ -130,7 +130,7 @@ MBIX изначально был неподъемным, потому что п�
 | Pediatric Septic Hip |  |  |
 | Finger Injuries |  |  |
 | Olecranon Fractures |  |  |
-| [Non-Traumatic Low Back Pain](https://coreem.net/core/non-traumatic-low-back-pain/) |  |  |
+| [Non-Traumatic Low Back Pain](https://coreem.net/core/non-traumatic-low-back-pain/) | По сути, про красные флаги (онко, каудопатия, инфекция, гематома) и тактику раннего возвращения к обычной жизни при их отсутствии, а также про невертебральный дифдиагноз боли в спине. Приятно встретить знакомый алгоритм Эдлау 2015. По ссылкам не ходил, на Ютьюбе видосы по выдаче пролистал, но не смотрел. | [low back pain emergency](https://youtube.com/search?q=low+back+pain+emergency) |
 | Distal Radius Fractures |  |  |
 | Scaphoid Fractures |  |  |
 | Calcaneus Fractures |  |  |
@@ -150,7 +150,7 @@ MBIX изначально был неподъемным, потому что п�
 | Post-Dural Puncture Headache |  |  |
 | Spinal Epidural Abscess |  |  |
 | Vertebral Osteomyelitis |  |  |
-| Post-Partum Hemorrhage |  |  |
+| [Post-Partum Hemorrhage](https://coreem.net/core/post-partum-hemorrhage/) | Вспомнил причины послеродовых кровотечений и узнал, какие варианты тампонады полости матки, а также про массаж, транексам и другие препараты при _топкой матке_. Дозировки сейчас на фиг. По ссылкам не ходил, на Ютьюбе выдачу проверил, но видосы не смотрел. | [uterine atony](https://youtube.com/search?q=uterine+atony) |
 | Preeclampsia and Eclampsia |  |  |
 | Ectopic Pregnancy |  |  |
 | Utility of Anti-D Immunoglobulin(Rho Gam) During First Trimester Pregnancy |  |  |
