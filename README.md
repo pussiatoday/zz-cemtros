@@ -130,7 +130,7 @@ MBIX изначально был неподъемным, потому что п�
 | Pediatric Septic Hip |  |  |
 | Finger Injuries |  |  |
 | Olecranon Fractures |  |  |
-| Non-Traumatic Low Back Pain |  |  |
+| [Non-Traumatic Low Back Pain](https://coreem.net/core/non-traumatic-low-back-pain/) |  |  |
 | Distal Radius Fractures |  |  |
 | Scaphoid Fractures |  |  |
 | Calcaneus Fractures |  |  |
@@ -140,7 +140,7 @@ MBIX изначально был неподъемным, потому что п�
 | Elbow Dislocation |  |  |
 | Proximal Humerus Fracture |  |  |
 | Clavicle Fractures |  |  |
-| Acromioclavicular (AC) Joint Injuries |  |  |
+| [Acromioclavicular (AC) Joint Injuries](https://coreem.net/core/ac-joint-injuries/) | Перешел я по ссылке на [обследование плечевого сустава на OrthoBullets](https://www.orthobullets.com/sports/3037/shoulder-exam) и понял, что там — непаханный огород. Но это не сейчас уже. И вообще назрело уже перечитать, пересмотреть уже прочитанное. Классификация Роквуда, потребность в иммобилизации и хирургии. По ссылкам не читал, на Ютьюбе выдачу посмотрел, но видео не смотрел. | [ac injury orthopedic](https://youtube.com/search?q=ac+injury+orthopedic) |
 | Approach to Traumatic Shoulder Pain |  |  |
 | Lunate Dislocation |  |  |
 | Cauda Equina Syndrome |  |  |
