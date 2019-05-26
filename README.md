@@ -150,7 +150,7 @@ MBIX изначально был неподъемным, потому что п�
 | Post-Dural Puncture Headache |  |  |
 | Spinal Epidural Abscess |  |  |
 | Vertebral Osteomyelitis |  |  |
-| Post-Partum Hemorrhage |  |  |
+| [Post-Partum Hemorrhage](https://coreem.net/core/post-partum-hemorrhage/) | Вспомнил причины послеродовых кровотечений и узнал, какие варианты тампонады полости матки, а также про массаж, транексам и другие препараты при _топкой матке_. Дозировки сейчас на фиг. По ссылкам не ходил, на Ютьюбе выдачу проверил, но видосы не смотрел. | [uterine atony](https://youtube.com/search?q=uterine+atony) |
 | Preeclampsia and Eclampsia |  |  |
 | Ectopic Pregnancy |  |  |
 | Utility of Anti-D Immunoglobulin(Rho Gam) During First Trimester Pregnancy |  |  |
