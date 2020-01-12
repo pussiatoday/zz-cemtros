@@ -1,5 +1,27 @@
 # MBIX ➡️ CEMTROS
 
+## Cancellation announcement and public apology | Объявление об отмене и публичное извинение
+
+I hereby announce the cancellation of any work related to this repository. I apologize to any reader of the repository for broken promises. You may find my blockquoted commentaries down below.
+
+I do no longer have time nor wish to continue on this path.
+
+Also, in a linguistic struggle between Russian and English in me I can’t help but lean toward using English. So about that, too, I’m sorry.
+
+I’m going to disseminate this statement across several related repositories, which I once started but can no longer support. After this, the repositories will be archived.
+
+One last thing: Before archiving the repo, I’m going to rename it from `zz-cemtros` to `cemtros`, because I’m as of now dropping this ISO-3166-1-alpha-2-based naming scheme for my personal repos. It shouldn’t hurt anyone, as I don’t believe anyone had it referenced or cloned before, and all my previous links that led to such repos were in connection with my http://pussia.today domain, which I no longer own.
+
+> Настоящим объявляю отмену какой бы то ни было работы, связанной с этим репозиторием. Я приношу извинения какому бы то ни было читателю этого репозитория за несдержанные обещания. Вы можете найти мои комментарии в виде цитат ниже.
+>
+> У меня более нет ни времени, ни желания продолжать этот путь.
+>
+> Кроме того, в лингвистической борьбе между русским и английским во мне я не могу не склоняться к использованию английского. Так что за это я также извиняюсь.
+>
+> Я собираюсь распространить это заявление по нескольким связанным репозиториям, которые однажды запустил, но более не могу поддерживать. После этого репозитории будут архивированы.
+>
+> И последнее: прежде, чем архивировать репозиторий, я собираюсь переименовать его из `zz-cemtros` в `cemtros`, потому что с этого момента отказываюсь от этой основанной на ISO-3166-1 альфа-2 схемы именования для моих личных реп. Это не должно кому-либо повредить, поскольку не думаю, что кто-либо ссылался на него или клонировал его прежде, и все мои предыдущие ссылки на такие репы были в связи с моим доменом http://pussia.today, которым я более не владею.
+
 ## Предыстория CEMTROS
 
 ~~Давным-давно в далек~~ Несколько часов назад, разбирая [рентгенограммы по случаю с переломом наружной лодыжки с OrthoBullets](https://www.orthobullets.com/Site/Cases/View/148fb56a-0f93-48c5-a86d-2cec9a5fe501) (случай пришел мне на почту по подписке), стал я смотреть, что такое [ER stress view](https://google.com/search?tbm=isch&q=external+rotation+stress+view), и наткнулся по этому запросу одной из первых картинок на [статью про рентгенографию голеностопного сустава с нагрузкой на Core EM](https://coreem.net/core/ankle-stress-views/). Потом стал смотреть [видео по mortise view](https://vimeo.com/175692273), и оказалось, что это тоже они.
@@ -15,6 +37,8 @@
 MBIX изначально был неподъемным, потому что при прочтении даже хотя бы одной статьи в день каждый день требовал 25 лет. [Uncle Owen, this R2 unit has a bad motivator, look!](https://youtu.be/3hbp41_vlX0)
 
 Здесь же [несложный расчет показывает](https://www.timeanddate.com/date/dateadded.html?d1=19&m1=5&y1=2019&type=add&ay=&am=&aw=&ad=176&rec=), что, если начать сегодня и читать, в среднем, хотя бы по одной статье в день, то к 11 ноября 2019 уже можно окончить. После [Селебрейшна](http://pussia.today/2019/04/11/celebration-chicago/) мы [знаем](https://youtu.be/adzYW5DZoWs), что IX эпизод выйдет в декабре, а значит мы успеваем. 😊 А поскольку эпизод будет называться [TROS](https://imdb.com/title/tt2527338/), то и полноценная смена MBIX — готова, и имя ей — CEMTROS (Core EM to The Rise of Skywalker).
+
+> None of the above-mentioned initiative has moved an inch since then (except for [TROS](https://imdb.com/title/tt2527338/) _actually_ hitting the screens). I just can’t do it. Let’s face it. I need to just drop it and move along.
 
 ## Цель CEMTROS
 
